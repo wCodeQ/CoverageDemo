@@ -1,0 +1,12 @@
+diff --git a/coverage/hello.c b/coverage/hello.c
+index bdfdbce..a48a0fb 100644
+--- a/coverage/hello.c
++++ b/coverage/hello.c
+@@ -9,6 +9,7 @@ int main(int argc,char* argv[])
+         fun1();
+     else
+         fun2();
++        printf("BBB\n");
+     return 0;
+ }
+ 

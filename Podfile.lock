@@ -1,0 +1,16 @@
+PODS:
+  - XcodeCoverage (1.3.2)
+
+DEPENDENCIES:
+  - XcodeCoverage
+
+SPEC REPOS:
+  http://gitlab.qima-inc.com/AppLib/CocoaPodsSpecs.git:
+    - XcodeCoverage
+
+SPEC CHECKSUMS:
+  XcodeCoverage: da52475f81d7fbfff532197f8223d8259b26b86d
+
+PODFILE CHECKSUM: 265abd1d4a0f617c377499e0667649f8572066ef
+
+COCOAPODS: 1.5.3
